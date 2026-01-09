@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I’m Ronin 👋
+
+🚀 I started making **iOS apps at 16** and I’m currently building **AI-powered iOS apps**.
+
+---
+
+## 🔭 Current
+
+- **iOS Software Engineer @ Redfin**
+  - Mobile Customer Growth team
+- Sharing the apps I build on **X (Twitter)**
+
+---
+
+## 🎓 Background
+
+- **B.Sc. in Computer Science** — University of British Columbia (UBC)
+- **Schulich Leader** — Canada’s largest STEM scholarship
+- **buildspace s5**
+- **Schulich Leaders Entrepreneurship Program** — Cohort 1 Graduate
+
+---
+
+## 🛠️ Interests
+
+- iOS & Swift (SwiftUI / UIKit)
+- AI-powered consumer apps
+- Startups & product engineering
+- Building and shipping fast
+
+---
+
+## 📫 Find me online
+
+- X (Twitter): [_link here_](https://x.com/ronincunningham)
+- GitHub: You’re already here 🙂
+
+---
