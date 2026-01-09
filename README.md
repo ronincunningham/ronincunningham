@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - **iOS Software Engineer @ Redfin**
   - Mobile Customer Growth team
-- Sharing the apps I build on **X (Twitter)**
+- Sharing the apps I build on [X](https://x.com/ronincunningham)
 
 ---
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ## 📫 Find me online
 
-- X (Twitter): [_link here_](https://x.com/ronincunningham)
+- X: [_link here_](https://x.com/ronincunningham)
 - GitHub: You’re already here 🙂
 
 ---
