@@ -20,6 +20,22 @@ Here are some ideas to get you started:
 
 ---
 
+## 📱 Apps I Built
+
+- **[FitCheck – Rate Your Outfit](https://apps.apple.com/us/app/fitcheck-rate-your-outfit/id6755706607)**
+
+- **[Floppy Disks](https://apps.apple.com/us/app/floppy-disks/id1330346902)**
+
+- **[Minute Chem](https://apps.apple.com/us/app/minute-chem/id1344643522)**
+
+- **[Big Brother – 1984](https://apps.apple.com/us/app/big-brother-1984/id1357900211)**
+
+- **[451](https://apps.apple.com/us/app/451/id1380547740)**
+
+- **[GymGrill](https://apps.apple.com/us/app/gymgrill/id6502245588)**
+
+---
+
 ## 🔭 Current
 
 - **iOS Software Engineer @ Redfin**
