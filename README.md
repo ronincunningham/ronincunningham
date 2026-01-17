@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 📱 Apps I Built
 
-- **[FitCheck – Rate Your Outfit](https://apps.apple.com/us/app/fitcheck-rate-your-outfit/id6755706607)**
+- **[FitCheck – Rate Your Outfit](https://apple.co/3ZmixdO)**
 
 - **[Floppy Disks](https://apps.apple.com/us/app/floppy-disks/id1330346902)**
 
