@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I’m Ronin 👋
 
-🚀 I started making **iOS apps at 16**. I’m currently building **AI-powered iOS apps at Redfin and on my own time**.
+🚀 I started making **iOS apps at 16**. I’m currently building **AI-powered iOS apps** at Redfin and on my own time.
 
 ---
 
