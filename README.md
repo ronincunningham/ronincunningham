@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I’m Ronin 👋
 
-🚀 I started making **iOS apps at 16** and I’m currently building **AI-powered iOS apps**.
+🚀 I started making **iOS apps at 16**. I’m currently building **AI-powered iOS apps at Redfin and on my own time**.
 
 ---
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Current
 
-- **iOS Software Engineer @ Redfin**
-  - Mobile Customer Growth team
+- **Software Engineer @ Redfin**
+  - Mobile Customer Growth (iOS), AI Tours
 - Sharing the apps I build on [X](https://x.com/ronincunningham)
 
 ---
